@@ -1,4 +1,5 @@
-//: Playground - noun: a place where people can play
+//Tarea : Juego de Memoria
+//Gerardo Guerra Pulido
 
 import UIKit
 
